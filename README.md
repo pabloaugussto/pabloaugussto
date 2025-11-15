@@ -4,7 +4,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas explorando como const
 ---
 
 
-### 🛠️ Tecnologias que estou usando (ou estudando)
+### 🛠️ Tecnologias que estou estudando
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
