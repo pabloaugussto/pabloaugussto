@@ -3,7 +3,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas explorando como const
 
 ---
 
-### 🛠️ Tecnologias que estou usando
 
 ### 🛠️ Tecnologias que estou usando (ou estudando)
 
@@ -18,17 +17,16 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas explorando como const
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
----
-### 📊 Minhas Estatísticas do GitHub
+
+ 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloaugussto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloaugussto&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
----
 
-### 📫 Conecte-se comigo
+ 📫 Conecte-se comigo
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-augusto-8536b2217/)
 > "Aprendendo, desenvolvendo e compartilhando conhecimento."
