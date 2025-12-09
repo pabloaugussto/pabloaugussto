@@ -52,5 +52,3 @@
 ## 📫 Conecte-se comigo
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-augusto-8536b2217/)
-🌎 Site responsivo criado para treinar estrutura, boas práticas de CSS e design adaptável.  
-🔗 Repositório: [web-site-responsivo](https://github.com/pabloaugussto/web-site-responsivo)
