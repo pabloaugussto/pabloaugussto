@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias que estou estudando
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -19,13 +19,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloaugussto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloaugussto&layout=compact&langs_count=7&theme=radical" />
-</p>
 
 
 
